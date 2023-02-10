@@ -1,6 +1,6 @@
 """
 CSCK541 Jan B
-Activity 2.3
+Activity 2.4
 """
 
 #Example 1a: Assignment operator w/ string (=)
